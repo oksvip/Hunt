@@ -15,7 +15,7 @@ class CategoriesTableSeeder extends Seeder
 
         $category  = [
             'name'       => 'Laravel',
-            'cover'      => 'http://owst2hgsv.bkt.clouddn.com/u=3979453105,1717514132&fm=27&gp=0.jpg',
+            'cover'      => 'http://hunt.iokvip.com/fonts/bg.svg?e9b6aabaa428c6fb77804dc8732e8a09',
             'describe'   => '为 Web 艺术家创造的 PHP 框架',
             'created_at' => $timestamp,
             'updated_at' => $timestamp,
